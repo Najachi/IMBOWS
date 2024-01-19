@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IMBO>
+	<Population_Size>50</Population_Size>
+	<Number_of_iteration>200</Number_of_iteration>
+	<Max_step>1.0</Max_step>
+	<Butterfly_Adjusting_Rate>5/12</Butterfly_Adjusting_Rate>
+	<Migration_period>1.2</Migration_period>
+	<Migration_ratio>0.5</Migration_ratio>
+	<Repeated_experiment>100</Repeated_experiment>
+</IMBO>

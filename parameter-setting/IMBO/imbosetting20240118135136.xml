@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IMBO>
+ <Number_of_Butterflie>20</Number_of_Butterflie>
+ <Number_of_Iteration>10</Number_of_Iteration>
+ <Max_ste>0.5</Max_ste>
+ <B.A.>0.12</B.A.>
+ <B.M.>0.12</B.M.>
+ <Migration_Rati>1.0</Migration_Rati>
+ <Repeated_experimen>0</Repeated_experimen>
+</IMBO>
